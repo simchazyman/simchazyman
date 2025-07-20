@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Simcha Zyman
 
 Welcome to my GitHub profile!  
-This page showcases a selection of projects I’ve developed to demonstrate my skills and experience to potential employers and collaborators.
+Here on this GitHub account, you will find a selection of projects I’ve developed to showcase my skills and experience to potential employers and collaborators.
 
-Each project highlights different technologies and concepts I’ve worked with throughout my learning and coursework.
+Each project demonstrates different technologies and concepts I’ve worked with during my studies and personal learning.
 
-Feel free to explore the repositories below to see my work in detail.
+Feel free to browse through the repositories to learn more about my work.
